@@ -11,19 +11,19 @@ Please contact me directly via email or LinkedIn for authorization.
 
 ---
 
+## List of projects:
+
+- Hidroponics: 18 years old, first PCB, done for my Electronics Techinician Undergraduate Thesis (PROTEUS)
+- LR250: First electronics project for a drone at LASER laboratories, more evolved PCB (EASYEDA PRO)
+- LR500: Second electronics project at LASER laboratories, more experienced PCB (EASYEDA PRO)
+
+---
+
 ## Copyright Notice
 © 2025 Ronaldo Urquiza Herculano Filho. All rights reserved.  
 The contents of this repository (including schematics, documentation, and images) may **not be copied, modified, or redistributed** without prior written permission from the author.
 
 ---
-
-## List of projects:
-
-- Hidroponics: 18 years old, first PCB, done for my Electronics Techinician Undergraduate Thesis (PROTEUS)
-- LR250: First electronics project at LASER laboratories, more evolved PCB (EASYEDA PRO)
-- LR500: Second electronics project at LASER laboratories, more experienced PCB (EASYEDA PRO)
-
----
 **Contact:**  
-📧 ronaldo.urquiza@... (your email)  
+📧 ronaldouhf@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/ronaldo-urquiza-2b6896250)
